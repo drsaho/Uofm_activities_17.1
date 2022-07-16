@@ -1,0 +1,33 @@
+nav {
+background-color: salmon;
+height: 100px;
+
+}
+.menu-item {
+    background-color: saddlebrown;
+    color:aliceblue;
+    display: inline-block;
+    height: 75px;
+    width: 100px;
+    padding: 10px;
+}
+.content {
+    height: 500px;
+}
+
+.sideBar {
+    width: 29%;
+    background-color: #f1f1f1;
+    float: left;
+    height: 700px;
+
+}
+.details {
+    width: 70%;
+}
+.petName{
+    font-size: 50px;
+    position: center;
+
+
+}

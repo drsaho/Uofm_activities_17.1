@@ -1,0 +1,13 @@
+nav{
+background-color: salmon;
+height: 75px;
+
+}
+.menu-item{
+    background-color: saddlebrown;
+    color:aliceblue;
+    display: inline-block;
+    height: 75px;
+    width: 100px;
+    padding: 10px;
+}
